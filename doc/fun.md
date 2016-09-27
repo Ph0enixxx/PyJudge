@@ -1,5 +1,5 @@
-fun库
+fun库 ok
 
 @log
-debug.msg
+debug.msg ok
 

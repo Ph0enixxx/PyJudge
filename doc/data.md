@@ -1,6 +1,6 @@
-数据处理基类
-json_encode()
-json_decode()
-get()
-set()
-getAll()
+数据处理基类		ok
+json_encode()	ok
+json_decode()	ok
+get()			ok
+set()			ok
+getAll()		ok
